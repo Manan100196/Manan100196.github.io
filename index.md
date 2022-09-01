@@ -10,5 +10,7 @@ Here, I will share and express my thoughts and experience of technical tools and
 My idol is Shahrukh Khan, and the reason are not his movies but his struggles and hardwork which made him this successful without any support. My favourite sport
 person is Roger Federer because of his consistency though my current favourite tennis player is Rafael Nadal and I enjoy watching F.R.I.E.N.D.S.
 
+![Friends](https://user-images.githubusercontent.com/93798297/188031594-fa5baee8-0437-4fa4-9e34-89ac3ef75a9f.JPG)
+
 Sincerely,
 Manan.
