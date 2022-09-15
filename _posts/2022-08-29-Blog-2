@@ -1,0 +1,10 @@
+Project 1 Blog
+
+It was great fun and lots of learning while working on the first project of ST 558 - Data Science for Statistics. The project was involved pre-processing the raw 
+dataset. Later, I created plot of key variables in the dataset. The main learning was the use of function and flexibility it can provide. Also, the nested
+function created termed as wrapper function in the R script was used to manipulate different files having similar raw dataset. 
+
+Data preprocessing and manipulation is the most important step in modelling. Incorrect or missing values leads to wrong modelling result which impact negatively 
+the business decision. Also, plots give key insights of the preprocessed large dataset, so the further steps can be planned accordingly. 
+
+I have added my project 1 html file below and I am open to suggestions or discussions.
